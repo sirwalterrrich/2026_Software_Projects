@@ -1,0 +1,12 @@
+{
+  "camera": {
+    "stream_endpoint": "webcam/?action=stream",
+    "stream_host": "192.168.1.100",
+    "quality": 80,
+    "fps": 30,
+    "timeout_ms": 5000,
+    "resolution": "640x480",
+    "buffer_size": 131072,
+    "boundary": "boundarydonotcross"
+  }
+}

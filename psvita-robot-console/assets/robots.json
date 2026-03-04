@@ -1,0 +1,7 @@
+{
+  "robots": [
+    { "ip": "192.168.1.100", "camera_host": "192.168.1.110", "camera_port": 5001, "stream_endpoint": "/webcam/?action=stream" },
+    { "ip": "192.168.1.101", "camera_port": 5000, "stream_endpoint": "/stream" },
+    { "ip": "192.168.1.102", "camera_port": 5000, "stream_endpoint": "/stream" }
+  ]
+}
